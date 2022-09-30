@@ -1,0 +1,9 @@
+{
+	"id": "TZx56rFVyWmXnDf",
+	"json": "{\"id\":\"TZx56rFVyWmXnDf\",\"url\":\"https://portland.craigslist.org/search/zip\",\"loadedUrl\":\"https://portland.craigslist.org/search/zip\",\"uniqueKey\":\"https://portland.craigslist.org/search/zip\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-29T20:46:26.033Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://portland.craigslist.org/search/zip",
+	"url": "https://portland.craigslist.org/search/zip"
+}
